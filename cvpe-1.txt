@@ -1,0 +1,4 @@
+r=Hash('sha512').hash_file_by_times(r'C:\cvpe-1.txt',10**6)
+Hash('sha256').str_hash(r)
+
+FEB80BD241BFF5F50975A6A87BFB0EC6560F03B6BFA0203739724E587FC1032B
